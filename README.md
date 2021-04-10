@@ -16,5 +16,6 @@ La actividad ha sido realizada de manera individual.
 2. C. Abad, A. Kam y L. Calva (2009), "Sistema de Recomendación de Películas" http://www.dspace.espol.edu.ec/handle/123456789/10882
 2. Python.org https://www.python.org/doc/
 3. Python Package Index, https://pypi.org/
-4. Baiju Muthukandan - Selenium with Python, https://selenium-python.readthedocs.io/
-5. Pandas documentation https://pandas.pydata.org/docs
+4. Beautiful Soup documentation, https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+5. Baiju Muthukandan - Selenium with Python, https://selenium-python.readthedocs.io/
+6. Pandas documentation https://pandas.pydata.org/docs
