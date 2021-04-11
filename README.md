@@ -14,8 +14,9 @@ La actividad ha sido realizada de manera individual.
 
 1. Materiales de la asignatura Tipología y Ciclo de Vida de los Datos del Máster de Ciencia de Datos de la UOC
 2. C. Abad, A. Kam y L. Calva (2009), "Sistema de Recomendación de Películas" http://www.dspace.espol.edu.ec/handle/123456789/10882
-2. Python.org https://www.python.org/doc/
-3. Python Package Index, https://pypi.org/
-4. Beautiful Soup documentation, https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-5. Baiju Muthukandan - Selenium with Python, https://selenium-python.readthedocs.io/
-6. Pandas documentation https://pandas.pydata.org/docs
+3. Benabaye, I. (2020) "Step-by-step: Scraping Epsiode IMDb Ratings" https://isabella-b.com/blog/scraping-episode-imdb-ratings-tutorial/
+4. Python.org https://www.python.org/doc/
+5. Python Package Index, https://pypi.org/
+6. Beautiful Soup documentation, https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+7. Baiju Muthukandan - Selenium with Python, https://selenium-python.readthedocs.io/
+8. Pandas documentation https://pandas.pydata.org/docs
