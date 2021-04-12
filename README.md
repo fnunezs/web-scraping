@@ -8,21 +8,15 @@ La actividad que se incluye en este repositorio consiste en la creación de un *
 
 ## Agradecimientos
 
-Rotten Tomatoes es probablemente el agregador de reseñas de películas y programas de televisión más popular de Internet, cuyo sistema de puntuación o "[*tomatometer*](https://www.rottentomatoes.com/about)" está respaldado por las opiniones de cientos de críticos de cine y televisión. Además, Rotten Tomatoes cuenta con una extensa comunidad de usuarios que realizan sus propias reseñas y valoraciones lo que convierte en más valiosa si cabe la información de este sitio web.
+Rotten Tomatoes es probablemente el agregador de reseñas de películas y programas de televisión más popular de Internet, cuyo sistema de puntuación o "[*tomatometer*]"(https://www.rottentomatoes.com/about)" está respaldado por las opiniones de cientos de críticos de cine y televisión. Además, Rotten Tomatoes cuenta con una extensa comunidad de usuarios que realizan sus propias reseñas y valoraciones lo que convierte en más valiosa si cabe la información de este sitio web.
 
 Los *datasets* generados a partir de las reseñas cinematográficas de Rotten Tomatoes son muy populares entre la comunidad de usuarios de [Kaggle](https://www.kaggle.com), una plataforma que permite encontrar y publicar conjuntos de datos, explorar y construir modelos o participar en competiciones y desafíos en un entorno de ciencia de datos basado en la web. Uno de los *dataset* más completos es [*Rotten Tomatoes movies and critic reviews dataset*](https://www.kaggle.com/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset) creado por [Stefano Leone](https://www.kaggle.com/stefanoleone992) a partir de las reseñas de más de 17.000 películas. 
 
 ## Inspiración
 
-Este conjunto de datos ha sido desarrollado para comprender las técnicas de *web scraping* y familiarizarse con herramientas como [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/) o [*Selenium WebDriver*](https://www.selenium.dev/documentation/en/webdriver/).  Entre las utilidades prácticas que puede tener está la de servir como fuente de datos para analizar algoritmos de clasificación, e incluso servir como fuente de datos para desarrollar un sistema de recomendación de películas sencillo, gracias a la información que contiene sobre las películas mejor valoradas por la crítica y usuarios en diferentes categorías. Dadas sus limitaciones de tamaño y atributos recogidos no es adecuado sin embargo para tareas de inteligencia artificial más complejas, como el análisis de sentimientos de datos a partir de críticas de películas. Para estas y otras actividades más complejas es recomendable un dataset más completo como el de Stefano Leone.
+Este conjunto de datos ha sido desarrollado para comprender las técnicas de *web scraping* y familiarizarse con el uso de herramientas como [*Beautiful Soup*](https://www.crummy.com/software/BeautifulSoup/) o [*Selenium WebDriver*](https://www.selenium.dev/documentation/en/webdriver/) para este fin, de manera similar a la descrita por autores como Isabella Benabaye en su artículo "[*Step-by-step: Scraping Epsiode IMDb Ratings*]"(https://isabella-b.com/blog/scraping-episode-imdb-ratings-tutorial/).
 
-## Agradecimientos
-
-Rotten Tomatoes
-
-## Inspiración
-
-Isabella Benabaye y su dataset publicado en Kaggle, los conceptos expuestos en el artículo de Abad, Kam y Calva. 
+Entre las utilidades prácticas que puede tener este conjunto de datos está la de servir como fuente para analizar distintos algoritmos de clasificación, e incluso para desarrollar un sistema de recomendación de películas sencillo, gracias a la información que contiene sobre las películas mejor valoradas por la crítica y usuarios en diferentes categorías. Dadas sus limitaciones de tamaño y atributos recopilados, no es adecuado, sin embargo, para tareas de inteligencia artificial más complejas, como el análisis de sentimientos de datos a partir de críticas de películas. Para estas y otras actividades más sofisticadas a partir de los datos de Rotten Tomatoes es recomendable un dataset más completo como el de Stefano Leone.
 
 ## Miembros del equipo
 
